@@ -7,9 +7,9 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 *[Description](#description)
 
-*[Contributing](#Contributing)
+*[Contributing](#contributing)
 
-*[Questions](#Questions)
+*[Questions](#questions)
 
 
 ## Usage
